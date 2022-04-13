@@ -1,0 +1,18 @@
+command : serverless config credentials --provider aws --key XXXX --secret 12345XXX --profile serverlessUser
+
+here,
+--key is secret access ket
+--secret is secret access password
+--profile is setting up a profile names serverlessUSer
+
+Error faced : 
+Error: Serverless Framework v3 does not support Node.js v10.19.0. Please upgrade Node.js to the latest LTS version (v12.13.0 is a minimum supported version)
+
+error resolving doc : https://phoenixnap.com/kb/update-node-js-version
+
+run the above command again :-
+command : serverless config credentials --provider aws --key XXXX --secret 12345XXX --profile serverlessUser
+
+O/P: ✔ Profile "serverlessUser" has been configured
+
+Video Link: https://www.youtube.com/watch?v=D5_FHbdsjRc&list=PLmexTtcbIn_gP8bpsUsHfv-58KsKPsGEo&index=2
