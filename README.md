@@ -1,2 +1,2 @@
-# Serverless-Framework
+# Serverless Framework
 Serverless Framework and AWS 
