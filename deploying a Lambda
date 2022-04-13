@@ -1,0 +1,14 @@
+Command to create a new folder using serverless CLI command :
+-> serverless create --template aws-nodejs --path ServerlessProject
+we are using aws, nodejs we ahve template called aws-nodejs
+This command has created a template inside the folder (ServerlessProject) mentioned in the path with all serverless code that we need.
+
+Command to deploy : sls deploy 
+here,
+'sls' is short for serverless
+
+This deploy command will create a serverless config file, a CFT template which will build all the resources and things inside this account, region 
+(currently in default region set in configuration).
+
+
+Video link: https://www.youtube.com/watch?v=sku9Rrci-tE&list=PLmexTtcbIn_gP8bpsUsHfv-58KsKPsGEo&index=2
