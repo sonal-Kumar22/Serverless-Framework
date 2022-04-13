@@ -3,3 +3,4 @@ command to install serverless : sudo npm install serverless -g
 
 video link: https://www.youtube.com/watch?v=D5_FHbdsjRc&list=PLmexTtcbIn_gP8bpsUsHfv-58KsKPsGEo&index=2
 
+Doc : https://forum.serverless.com/t/solved-serverless-cli-install-failure-on-macos/3639
