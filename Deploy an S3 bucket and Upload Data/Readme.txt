@@ -9,3 +9,5 @@ here we have installed Serverless S3 Sync plugin : https://www.serverless.com/pl
 Then command to deploy:
 -> sls deploy
 
+Video link: https://www.youtube.com/watch?v=8dc72i41r1A&list=PLmexTtcbIn_gP8bpsUsHfv-58KsKPsGEo&index=3
+
