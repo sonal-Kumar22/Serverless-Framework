@@ -18,4 +18,5 @@ https://www.serverless.com/framework/docs/providers/fn/guide/installation#:~:tex
 
 6.command to create stack : serverless deploy --stage dev (stage is optional)
 
+7."sls remove" command will remove the deployed service, defined in your current working directory, from the provider. : serverless remove
 
